@@ -1,0 +1,18 @@
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\bin\Debug\Fasetto.Word.Core.dll
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\bin\Debug\Fasetto.Word.Core.pdb
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\bin\Debug\Ninject.dll
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\bin\Debug\Ninject.xml
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.csprojResolveAssemblyReference.cache
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.dll
+C:\Users\MinorSonek\Downloads\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\fasetto-word-e2e495a82fa9877ed8c03d361ee235e862b92f14\Source\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.pdb
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\bin\Debug\Fasetto.Word.Core.dll
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\bin\Debug\Fasetto.Word.Core.pdb
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\bin\Debug\Ninject.dll
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\bin\Debug\Ninject.xml
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.csprojResolveAssemblyReference.cache
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.dll
+C:\Users\MinorSonek\documents\visual studio 2017\Projects\Fasetto.Word\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.pdb

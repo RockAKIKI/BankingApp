@@ -1,0 +1,29 @@
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\bin\Debug\Fasetto.Word.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\bin\Debug\Fasetto.Word.Core.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\bin\Debug\Ninject.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\bin\Debug\Ninject.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\obj\Debug\BankWPF.Core.csprojResolveAssemblyReference.cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word.Core\obj\Debug\Fasetto.Word.Core.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Debug\Ninject.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Debug\Ninject.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.csprojResolveAssemblyReference.cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Debug\BankWPF.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Debug\BankWPF.Core.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.pdb
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\bin\Debug\BankWPF.Core.dll
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\bin\Debug\BankWPF.Core.pdb
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.csproj.CopyComplete
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.dll
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF.Core\obj\Debug\BankWPF.Core.pdb

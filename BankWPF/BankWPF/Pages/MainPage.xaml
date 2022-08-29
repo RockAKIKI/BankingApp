@@ -1,0 +1,103 @@
+﻿<local:BasePage x:TypeArguments="core:MainViewModel" x:Class="BankWPF.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BankWPF"
+      xmlns:core="clr-namespace:BankWPF.Core;assembly=BankWPF.Core"
+      mc:Ignorable="d" 
+      x:Name="Page"
+      d:DesignWidth="700"
+      Title="Main">
+
+    <Grid VerticalAlignment="Center">
+        <Button HorizontalAlignment="Right"
+                Panel.ZIndex="5"
+                VerticalAlignment="Top"
+                Command="{Binding ToTransferPageCommand}"
+                Content="Transfer page"
+                Margin="0 10 10 0" />
+        <Border Background="Transparent"
+                Padding="30 100"
+                Height="650">
+
+            <Border Background="{StaticResource ForegroundLightBrush}" 
+                    CornerRadius="10"
+                    Padding="15 50 15 15">
+                <StackPanel>
+                    <!-- Balance Header -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 0 0 20">
+                        <TextBlock Text="Balance : " 
+                               FontSize="{StaticResource FontSizeLarge}" 
+                               FontFamily="{StaticResource LatoRegular}"
+                               Foreground="{StaticResource WordBlueBrush}"
+                               />
+                        <TextBlock Text="{Binding BalanceString}" 
+                                   FontSize="{StaticResource FontSizeLarge}" 
+                                   FontFamily="{StaticResource LatoRegular}"
+                                   Foreground="{StaticResource WordBlueBrush}"
+                                   />
+                    </StackPanel>
+
+                    <!-- Main content -->
+                    <Grid VerticalAlignment="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="80" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="120" />
+                        </Grid.RowDefinitions>
+
+                        <!-- Textbox for user's input value -->
+                        <TextBox Grid.Row="0" Text="{Binding InputValue}" Tag="Enter value here" />
+
+                        <!-- Buttons -->
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="7*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="7*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Button Content="Deposit" 
+                                    Grid.Column="0"
+                                    local:IsBusyProperty.Value="{Binding DepositIsRunning}"
+                                    Command="{Binding DepositCommand}" />
+
+                            <Button Content="Withdraw" 
+                                    Grid.Column="2"
+                                    local:IsBusyProperty.Value="{Binding WithdrawIsRunning}"
+                                    Command="{Binding WithdrawCommand}" />
+                        </Grid>
+
+                        <!-- Errors -->
+
+                        <!-- Error message if value wasnt integer number -->
+                        <TextBlock Text="Value must be integer number."
+                            Grid.Row="1" 
+                            FontSize="{StaticResource FontSizeRegular}"
+                            Foreground="{StaticResource WordRedBrush}"
+                            Visibility="{Binding ErrorNotInteger, Converter={local:BooleanToVisiblityConverter}, ConverterParameter=True}"
+                            />
+
+                        <!-- Error message if not enough money to withdraw -->
+                        <TextBlock Text="Not enough money to withdraw." 
+                            Grid.Row="1"
+                            FontSize="{StaticResource FontSizeRegular}"
+                            Foreground="{StaticResource WordRedBrush}"
+                            Visibility="{Binding ErrorNotEnoughMoney, Converter={local:BooleanToVisiblityConverter}, ConverterParameter=True}"
+                            />
+
+                        <!-- Error message if the value wasnt valid -->
+                        <TextBlock Text="Value must be higher than 0." 
+                            Grid.Row="1"
+                            FontSize="{StaticResource FontSizeRegular}"
+                            Foreground="{StaticResource WordRedBrush}"
+                            Visibility="{Binding ErrorWrongValue, Converter={local:BooleanToVisiblityConverter}, ConverterParameter=True}"
+                            />
+
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </Border>
+    </Grid>
+</local:BasePage>

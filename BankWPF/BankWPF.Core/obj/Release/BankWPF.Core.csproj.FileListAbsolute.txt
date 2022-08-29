@@ -1,0 +1,8 @@
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Release\BankWPF.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Release\BankWPF.Core.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Release\Newtonsoft.Json.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Release\Ninject.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Release\Newtonsoft.Json.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\bin\Release\Ninject.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\obj\Release\BankWPF.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF.Core\obj\Release\BankWPF.Core.pdb

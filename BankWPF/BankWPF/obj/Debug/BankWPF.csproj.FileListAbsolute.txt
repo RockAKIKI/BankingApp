@@ -1,0 +1,127 @@
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Fasetto.Word.exe.config
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Fasetto.Word.exe
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Fasetto.Word.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Fasetto.Word.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Ninject.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Fasetto.Word.Core.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\bin\Debug\Ninject.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\BankWPF.csprojResolveAssemblyReference.cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatListControl.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatListItemControl.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\PageHost.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\SideMenuControl.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Pages\ChatPage.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\MainWindow.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\App.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Fasetto.Word_MarkupCompile.cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Fasetto.Word_MarkupCompile.lref
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\App.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatListControl.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatListItemControl.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\PageHost.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Controls\SideMenuControl.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Pages\ChatPage.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Pages\RegisterPage.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Pages\LoginPage.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\MainWindow.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Styles\Texts.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Styles\Buttons.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Styles\Colors.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Styles\Fonts.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Fasetto.Word.g.resources
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Fasetto.Word.Properties.Resources.resources
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\BankWPF.csproj.GenerateResource.Cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Fasetto.Word.exe
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\Fasetto.Word\obj\Debug\Fasetto.Word.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\Ninject.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\Ninject.xml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF.csprojResolveAssemblyReference.cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListControl.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListItemControl.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\PageHost.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\SideMenuControl.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\MainPage.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\MainWindow.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\App.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\App.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListControl.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListItemControl.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\PageHost.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Controls\SideMenuControl.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\MainPage.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\RegisterPage.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\MainWindow.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Styles\Texts.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Styles\Buttons.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Styles\Colors.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Styles\Fonts.baml
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.GenerateResource.Cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\BankWPF.exe.config
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\BankWPF.exe
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\BankWPF.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\BankWPF.Core.dll
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\bin\Debug\BankWPF.Core.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.cache
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.lref
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF.g.resources
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF.Properties.Resources.resources
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF.exe
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\BankWPF.pdb
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\TransferPage.g.cs
+C:\Users\MinorSonek\Documents\Visual Studio 2017\Projects\BankWPF\BankWPF\obj\Debug\Pages\TransferPage.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\BankWPF.exe.config
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\BankWPF.exe
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\BankWPF.pdb
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\BankWPF.Core.dll
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\BankWPF.Core.pdb
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListControl.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListItemControl.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\PageHost.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\SideMenuControl.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\TransferPage.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\MainPage.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.cache
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.lref
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\App.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListControl.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\SideMenuContent\MenuListItemControl.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\PageHost.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Controls\SideMenuControl.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\TransferPage.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\MainPage.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\RegisterPage.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Styles\Texts.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Styles\Buttons.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Styles\Colors.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\Styles\Fonts.baml
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.g.resources
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.Properties.Resources.resources
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.CopyComplete
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.exe
+C:\Users\User\Desktop\bank2\BankWPF\BankWPF\obj\Debug\BankWPF.pdb
